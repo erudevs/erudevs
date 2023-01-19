@@ -6,10 +6,10 @@ A man who loves the technology behind Front End Development. I'm a JavaScript en
 - 📫 How to reach me: achmadhendarsyah7@gmail.com / erudev0@gmail.com
 - ⚡ Fun fact: also love photography
 
-![Ahmdhndr's GitHub stats](https://github-readme-stats-ahmdhndr.vercel.app/api?username=ahmdhndr&theme=react&show_icons=true)
+![Ahmdhndr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmdhndr&theme=react&show_icons=true)
 <br>
-[![Readme Card](https://github-readme-stats-ahmdhndr.vercel.app/api/pin/?username=ahmdhndr&repo=webpack-tutorial&theme=react&show_owner=true)](https://github.com/ahmdhndr/webpack-tutorial)
-[![Readme Card](https://github-readme-stats-ahmdhndr.vercel.app/api/pin/?username=ahmdhndr&repo=kjrcianjur&theme=react&show_owner=true)](https://github.com/ahmdhndr/kjrcianjur)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ahmdhndr&repo=webpack-tutorial&theme=react&show_owner=true)](https://github.com/ahmdhndr/webpack-tutorial)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ahmdhndr&repo=kjrcianjur&theme=react&show_owner=true)](https://github.com/ahmdhndr/kjrcianjur)
 
 ## Learned Tech
 <a href="#"><img align="left" alt="JavaScript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
