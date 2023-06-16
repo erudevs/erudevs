@@ -6,10 +6,10 @@ A man who loves the technology behind Front End Development. I'm a JavaScript en
 - 📫 How to reach me: achmadhendarsyah7@gmail.com / erudev0@gmail.com
 - ⚡ Fun fact: also love photography
 
-![Ahmdhndr's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmdhndr&theme=react&show_icons=true)
+![Achmad's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erudevs&theme=react&show_icons=true)
 <br>
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ahmdhndr&repo=webpack-tutorial&theme=react&show_owner=true)](https://github.com/ahmdhndr/webpack-tutorial)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ahmdhndr&repo=kjrcianjur&theme=react&show_owner=true)](https://github.com/ahmdhndr/kjrcianjur)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=erudevs&repo=webpack-tutorial&theme=react&show_owner=true)](https://github.com/erudevs/webpack-tutorial)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=erudevs&repo=kjrcianjur&theme=react&show_owner=true)](https://github.com/erudevs/kjrcianjur)
 
 ## Learned Tech
 <a href="#"><img align="left" alt="JavaScript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -19,7 +19,7 @@ A man who loves the technology behind Front End Development. I'm a JavaScript en
 <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" width="24px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></a>
 
 <!--
-**ahmdhndr/ahmdhndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**erudevs/erudevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
