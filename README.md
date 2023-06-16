@@ -3,7 +3,7 @@
 A man who loves the technology behind Front End Development. I'm a JavaScript enthusiast and am learning to strengthen my knowledge in JavaScript.
 
 - 🌱 I’m currently learning the fundamental of JavaScript
-- 📫 How to reach me: achmadhendarsyah7@gmail.com / erudev0@gmail.com
+- 📫 How to reach me: erudev0@gmail.com
 - ⚡ Fun fact: also love photography
 
 ![Achmad's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erudevs&theme=react&show_icons=true)
